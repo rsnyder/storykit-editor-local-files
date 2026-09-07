@@ -14,7 +14,7 @@ image:
 storykit_workspace: "5b24539a-430f-4c68-9fe0-fe3428f5f9f0"
 ---
 
+Local image below...
 
-![Blue boundary fixture](<storykit-blue.png>)
-
+{% include embed/image.html src="Macaws.jpg" caption="Local Image" %}
 
